@@ -30,4 +30,4 @@ const buildCards = (data) => {
 fetchData();
 
 //to-do:
-- make a search, 
+// - make a search function for pokemons
